@@ -19,8 +19,6 @@ https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1,Alfa Omega TV (1080p) [Not 24/7]
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AMC Europe Romania
-https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
 #EXTINF:-1,Antena International
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
 #EXTINF:-1,Antena Monden (720p)
@@ -33,64 +31,22 @@ https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1,Atomic TV (360p)
 https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AXN Black Romania
-https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AXN CEE Romania
-https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Entertainment",AXN Spin
-https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Entertainment",AXN White
-https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Documentary",BBC Earth Romania
-https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
-#EXTINF:-1,BBC Earth Romania HD (576p)
-https://hls127.freeott.top:8080/BG_The_World/video.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Entertainment",BBC First Romania
-https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Classic;Movies",Bollywood Classic Romania
-https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
 #EXTINF:-1,Bollywood Film
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1,Boom TV (1080p)
 https://tvboom.ro/live-tv/live.m3u8
-#EXTINF:-1,Bucovina TV (576i)
-https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1,Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Comedy",Comedy Central (Romania)
-https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
 #EXTINF:-1,Comedy Play (576i)
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
-#EXTINF:-1,like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Digi Sport 1
-https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
-#EXTINF:-1,Digi Sport 2 (1080p)
-https://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
-#EXTINF:-1,Digi Sport 3 (576p)
-https://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
-#EXTINF:-1,Digi Sport 4 (1080p)
-https://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel (Bulgaria)
-https://213.91.179.28:8000/play/a059
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Kids",Disney Channel (Romania)
-https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Kids",Disney Junior (Romania)
-https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 #EXTINF:-1,Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1,EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1,Etno TV
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="News",Euronews Romania
-https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",Film Cafe Romania
-https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",Film Now
-https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 #EXTINF:-1,FILMBOX+ Comedy Romania
 https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",FILMBOX+ Emotion Romania
-https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
 #EXTINF:-1,FILMBOX+ Hits Romania (576p)
 https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 #EXTINF:-1,FILMBOX+ Love & Crime Romania
@@ -101,14 +57,10 @@ https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
 #EXTINF:-1,HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
-#EXTINF:-1,Hello Taste
-https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8
 #EXTINF:-1,Hunedoara 1 (480p) [Not 24/7]
 https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1,IasiTV Life (1080p) [Not 24/7]
 https://tv.streambox.ro/hls/itv/index.m3u8
-#EXTINF:-1,Impact TV (Romania) (1080p)
-https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1,Impact TV Dance (1080p)
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1,Impact TV Manele (1080p)
@@ -127,22 +79,14 @@ https://stream1.kanald.ro/iphone/knd-live.m3u8
 https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 #EXTINF:-1,Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1,Light Channel (Romania) (480p) [Not 24/7]
-https://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1,LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-#EXTINF:-1,Magic TV (Romania) (720p)
-https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1,MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1,Metropola TV (1080p) [Not 24/7]
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-#EXTINF:-1,Minimax (Romania)
-https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 #EXTINF:-1,Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-#EXTINF:-1,Mireasa Extra
-https://iptv-org.github.io/iptv/countries/rtmp://stream1.antenaplay.ro/live/MireasaExtra
 #EXTINF:-1,MISA TV
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1,Moldova TV (1080p)
@@ -159,30 +103,14 @@ https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 https://live.nasul.tv/live/stream.m3u8
 #EXTINF:-1,National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Documentary",National Geographic (Romania)
-https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Documentary",National Geographic Wild (Romania)
-https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 #EXTINF:-1,National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Kids",Nickelodeon (Romania)
-https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Kids",Nicktoons (Romania)
-https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
-#EXTINF:-1,Nova TV Brasov (576p) [Not 24/7]
-https://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1,Observator News (360p)
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1,Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
-#EXTINF:-1,Prima TV (Romania) HD
-https://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
-#EXTINF:-1,Pro Arena HD
-https://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8
 #EXTINF:-1,Pro Cinema
 https://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
-#EXTINF:-1,PRO TV HD
-https://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
 #EXTINF:-1,PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
 #EXTINF:-1,PROTV News (1080p)
@@ -201,14 +129,8 @@ https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1,Realitatea Star (576i)
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
-#EXTINF:-1,Rock TV (Romania) (720p)
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1,ROTV Valencia (720p)
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
-#EXTINF:-1,SperantaTV (1080p)
-https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
-#EXTINF:-1,Super TV (Romania) (576p)
-https://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1,Tele7ABC HD (720p)
 https://live.tele7abc.ro/hls/stream/index.m3u8
 #EXTINF:-1,Tele7music (576i)
@@ -219,22 +141,8 @@ https://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1,Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
-#EXTINF:-1,The Fishing & Hunting Channel
-https://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
-#EXTINF:-1,like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Outdoor",The Fishing & Hunting Channel HD
-https://88.212.15.19/live/fishing_hun/index.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Undefined",Timeless Dizi Channel (Romania)
-https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
-#EXTINF:-1,Traditional TV (1080p)
-https://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1,TraLaLa TV
 https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
-#EXTINF:-1,TV Buzau (576p)
-https://78.96.33.89:8080
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Lifestyle;Travel",TV Paprika (Romania)
-https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
-#EXTINF:-1,TV SE (576p) [Not 24/7]
-https://89.38.8.130:39419
 #EXTINF:-1,TVPlus Suceava (576p)
 https://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1,TVR 1
@@ -261,52 +169,24 @@ https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1,TVR Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
-#EXTINF:-1,TVSat (576p) [Not 24/7]
-https://89.38.8.130:39443
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Series",Viasat Epic Drama Romania
-https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Documentary",Viasat Explore (Romania)
-https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Documentary",Viasat History (Romania)
-https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",Viasat Kino Romania
-https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Documentary",Viasat Nature (Romania)
-https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
 #EXTINF:-1,ARTV (Portugal) (720p) [Not 24/7]
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",AXN (Portugal)
 https://znty.dyndns.org:5010/hls/axn.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies (720p)
-https://50.7.120.34:8080/AXN_BLACK/index.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",AXN White Portugal (480p)
-https://50.7.120.34:8080/AXN_WHITE/index.m3u8
-#EXTINF:-1,Disney Channel (Portugal) (1080p)
-https://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1,Euronews Portuguese (720p)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1,Famatv (1080p) [Not 24/7]
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
-#EXTINF:-1,FIFA+ Portuguese (720p)
-https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #EXTINF:-1,Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1,Kuriakos Kids (1080p)
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1,Kuriakos Music (1080p)
-https://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1,Kuriakos TV (1080p)
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-#EXTINF:-1,NPC Radio e TV (720p)
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 #EXTINF:-1,ON FM (720p)
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1,Porto Canal (720p)
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1,Radio Sines (720p) [Geo-blocked]
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
-#EXTINF:-1,RFPtv (360p)
-https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1,RTP 1 (720p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1,RTP 2 (720p) [Not 24/7]
@@ -315,64 +195,24 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1,RTP Acores SD (504p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1,RTP Madeira SD (504p) [Not 24/7]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1,RTP Memoria (504p) [Not 24/7]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+https://www.rtp.pt/play/direto/rtpmemoria/playlist.m3u8
 #EXTINF:-1,RTP Noticias (720p) [Not 24/7]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1,RTP Noticias SD (504p) [Not 24/7]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1,SIC (1080p) [Geo-blocked]
 https://sic.live.impresa.pt/sic.m3u8
-#EXTINF:-1,SIC Alta Definicao (1080p)
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",SIC Mulher
-https://zntx.dyndns.org:8085/hls/sicm.m3u8
 #EXTINF:-1,SIC Noticias (1080p) [Geo-blocked]
 https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",SIC Radical
-https://znty.dyndns.org:5010/hls/sicr.m3u8
-#EXTINF:-1,SIC Replay (1080p)
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 #EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport TV1
 https://znty.dyndns.org:5010/hls/stv1.m3u8
 #EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport TV2
 https://znty.dyndns.org:5010/hls/stv2.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport TV5
-https://znty.dyndns.org:5010/hls/stv5.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport TV6
-https://zntx.dyndns.org:8085/hls/stv6.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport TV7
-https://zntx.dyndns.org:8085/hls/stv7.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport TV+
-https://znty.dyndns.org:5010/hls/sportv+.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Entertainment",Star Channel (Portugal)
-https://znty.dyndns.org:5010/hls/fox.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Comedy",Star Comedy
-https://znty.dyndns.org:5010/hls/foxcomedy.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Lifestyle",Star Crime (Portugal)
-https://znty.dyndns.org:5010/hls/foxcrime.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Lifestyle",Star Life (Portugal)
-https://znty.dyndns.org:5010/hls/foxlife.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Star Movies (Portugal)
-https://znty.dyndns.org:5010/hls/foxm.m3u8
 #EXTINF:-1,TVI (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 #EXTINF:-1,TVI Ficcao (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
-#EXTINF:-1,TVI Reality (720p) [Not 24/7]
-https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
-#EXTINF:-1,Pt
-https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Disney Channel (Bulgaria)
-https://213.91.179.28:8000/play/a059
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Kids",Disney Channel (Hungary)
-https://88.212.15.19/live/disney_channel_hun/index.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Kids",Disney Channel (Romania)
-https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
-#EXTINF:-1,like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Kids",Disney Junior (Romania)
-https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
 #EXTINF:-1,Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1,Moldova 1 (1080p)
@@ -391,16 +231,10 @@ https://stream.protv.md/live/sursa-1/index.m3u8
 https://radiochisinau.md/hls/RChisinau.m3u8
 #EXTINF:-1,Radio Moldova
 https://radiolive.trm.md/hls_rma/actualitati.m3u8
-#EXTINF:-1,Radio Moldova Muzical
-https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 #EXTINF:-1,Radio Moldova Tineret (1080p)
 https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 #EXTINF:-1,Realitatea TV (406p)
 https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Travel",RTG int.
-https://213.91.179.28:8000/play/a0bw
-#EXTINF:-1,Star TV (Moldova)
-https://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
 #EXTINF:-1,TeleMoldova + [Geo-blocked]
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1,Tezaur TV (576i)
@@ -409,12 +243,8 @@ https://tezaurtv.md/stream/index.m3u8
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1,TV8 (Moldova) [Not 24/7]
 https://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
-#EXTINF:-1,TVR Moldova (720p)
-https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
 #EXTINF:-1,TVR Moldova HD (1440p)
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
-#EXTINF:-1,We Sport TV
-https://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1,Zona M
 https://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
 

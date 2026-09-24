@@ -225,6 +225,8 @@ https://znty.dyndns.org:5010/hls/stv1.m3u8
 https://znty.dyndns.org:5010/hls/stv2.m3u8
 #EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="General",TVI
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1,TVI Internacional
+https://video-auth7.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI2IDQ6MTI6NSBQTSZoYXNoX3ZhbHVlPVRIdVdlcXpJR2ducjdaZ0NuR09idUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jZmIxOWRlYy0zNWI5LTRkOTYtYmQ5YS05ZjJlNWFiODYyOTI=
 #EXTINF:-1,TVI Ficcao
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
 #EXTINF:-1,Hit FM

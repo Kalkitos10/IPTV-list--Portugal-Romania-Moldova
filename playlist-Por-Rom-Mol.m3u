@@ -1,54 +1,54 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Antena1.ro@SD" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="General",Antena 1 (Romania)
 https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
-#EXTINF:-1,A7TV (1080p)
+#EXTINF:-1,A7TV 
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Acasa.ro@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png" group-title="Entertainment",Acasa HD
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
 #EXTINF:-1 tvg-id="AcasaGold.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Acasa Gold
 http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
-#EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="News",Digi 24 (720p)
+#EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="News",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1,B1
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro@SD" tvg-logo="https://i.imgur.com/5zMxDYq.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",Digi Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport2.ro@SD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports",Digi Sport 2 (1080p)
+#EXTINF:-1 tvg-id="DigiSport2.ro@SD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports",Digi Sport 2
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports",Digi Sport 3 (576p)
+#EXTINF:-1 tvg-id="DigiSport3.ro@SD" tvg-logo="https://i.imgur.com/T1ci5UK.png" group-title="Sports",Digi Sport 3
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports",Digi Sport 4 (1080p)
+#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports",Digi Sport 4
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
-#EXTINF:-1,Agro TV (Romania) (360p) [Not 24/7]
+#EXTINF:-1,Agro TV [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
-#EXTINF:-1,Aleph Business (1280p)
+#EXTINF:-1,Aleph Business 
 https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
-#EXTINF:-1,Aleph News (720p)
+#EXTINF:-1,Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
-#EXTINF:-1,Alfa Omega TV (1080p) [Not 24/7]
+#EXTINF:-1,Alfa Omega TV [Not 24/7]
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:-1,Antena International
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
-#EXTINF:-1,Antena Monden (720p)
+#EXTINF:-1,Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1,Antena Stars
 https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
-#EXTINF:-1,Arges TV (720p)
+#EXTINF:-1,Arges TV
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
-#EXTINF:-1,Atomic Academy TV (480p)
+#EXTINF:-1,Atomic Academy TV
 https://atomic.streamnet.ro/academia.m3u8
-#EXTINF:-1,Atomic TV (360p)
+#EXTINF:-1,Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1,Bollywood Film
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
-#EXTINF:-1,Boom TV (1080p)
+#EXTINF:-1,Boom TV
 https://tvboom.ro/live-tv/live.m3u8
 #EXTINF:-1,Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
-#EXTINF:-1,Comedy Play (576i)
+#EXTINF:-1,Comedy Play
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
-#EXTINF:-1,Dotto TV (1080p)
+#EXTINF:-1,Dotto TV
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1,EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
@@ -56,49 +56,49 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 #EXTINF:-1,FILMBOX+ Comedy Romania
 https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
-#EXTINF:-1,FILMBOX+ Hits Romania (576p)
+#EXTINF:-1,FILMBOX+ Hits Romania
 https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 #EXTINF:-1,FILMBOX+ Love & Crime Romania
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
-#EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ One Romania (576p)
+#EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ One Romania
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 #EXTINF:-1,Happy Channel
 https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8
-#EXTINF:-1,HD365 TV
+#EXTINF:-1,HD 365 TV
 https://s2.netstreaming.eu/hd365.m3u8
-#EXTINF:-1,Hunedoara 1 (480p) [Not 24/7]
+#EXTINF:-1,Hunedoara 1 [Not 24/7]
 https://netstreaming.eu/hd1.m3u8
-#EXTINF:-1,IasiTV Life (1080p) [Not 24/7]
+#EXTINF:-1,IasiTV Life [Not 24/7]
 https://tv.streambox.ro/hls/itv/index.m3u8
-#EXTINF:-1,Impact TV Dance (1080p)
+#EXTINF:-1,Impact TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:-1,Impact TV Manele (1080p)
+#EXTINF:-1,Impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
 #EXTINF:-1,Inedit TV
 https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 #EXTINF:-1,Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
-#EXTINF:-1,JOB TV (1080p)
+#EXTINF:-1,JOB TV
 https://jobtvserver.eu/hls/stream.m3u8
-#EXTINF:-1,Kanal D2 (1080i)
-https://stream2.kanald.ro/iphone/knd2-live.m3u8
-#EXTINF:-1,Kanal D (Romania) (480p)
+#EXTINF:-1,Kanal D
 https://stream1.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:-1,Kapital TV (1080p)
+#EXTINF:-1,Kanal D2
+https://stream2.kanald.ro/iphone/knd2-live.m3u8
+#EXTINF:-1,Kapital TV
 https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
-#EXTINF:-1,Kiss TV (1080p)
+#EXTINF:-1,Kiss TV 
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1,LiraTV (720p)
+#EXTINF:-1,LiraTV 
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1,MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
-#EXTINF:-1,Metropola TV (1080p) [Not 24/7]
+#EXTINF:-1,Metropola TV [Not 24/7]
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-#EXTINF:-1,Mireasa (720p)
+#EXTINF:-1,Mireasa
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1,MISA TV
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
-#EXTINF:-1,Moldova TV (1080p)
+#EXTINF:-1,Moldova TV
 https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1,Mooz Dance
 https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
@@ -106,15 +106,15 @@ https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
 https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
 #EXTINF:-1,Mooz Ro!
 https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
-#EXTINF:-1,Muscel TV (720p)
+#EXTINF:-1,Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
-#EXTINF:-1,Nasul TV (720p) [Not 24/7]
+#EXTINF:-1,Nasul TV [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
 #EXTINF:-1,National 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1,National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
-#EXTINF:-1,Observator News (360p)
+#EXTINF:-1,Observator News
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1,Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
@@ -122,37 +122,37 @@ https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 https://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
 #EXTINF:-1,PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
-#EXTINF:-1,PROTV News (1080p)
+#EXTINF:-1,PROTV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1,Qub TV
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
-#EXTINF:-1,Radio Fx Net (720p)
+#EXTINF:-1,Radio Fx Net
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
-#EXTINF:-1,Radio Romania 3Net (480p)
+#EXTINF:-1,Radio Romania 3Net
 https://media.3netmedia.ro/hls/stream.m3u8
-#EXTINF:-1,Radio Romania Antena Satelor (720p) [Not 24/7]
+#EXTINF:-1,Radio Romania Antena Satelor
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
-#EXTINF:-1,Realitatea Plus (720p)
+#EXTINF:-1,Realitatea Plus
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
-#EXTINF:-1,Realitatea Sportiva (720p)
+#EXTINF:-1,Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
-#EXTINF:-1,Realitatea Star (576i)
+#EXTINF:-1,Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
-#EXTINF:-1,ROTV Valencia (720p)
+#EXTINF:-1,ROTV Valencia
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
-#EXTINF:-1,Tele7ABC HD (720p)
+#EXTINF:-1,Tele 7ABC
 https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:-1,Tele7music (576i)
+#EXTINF:-1,Tele 7music
 https://live.tele7music.ro/hls/stream/index.m3u8
-#EXTINF:-1,TeleM Botosani (540p) [Not 24/7]
+#EXTINF:-1,TeleM Botosani [Not 24/7]
 https://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1,TeleMoldova + [Geo-blocked]
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
-#EXTINF:-1,Telestar1
+#EXTINF:-1,Telestar 1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1,TraLaLa TV
 https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
-#EXTINF:-1,TVPlus Suceava (576p)
+#EXTINF:-1,TV Plus Suceava (576p)
 https://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1,TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
@@ -180,82 +180,82 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="Sports",Rally TV (1080p)
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
-#EXTINF:-1,ARTV (Portugal) (720p) [Not 24/7]
+#EXTINF:-1,ARTV (PORTUGAL)
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1,Euronews Portugues
 https://euronews-euronews-portuguese-1-pt.samsung.wurl.tvplaylist.m3u8
-#EXTINF:-1,Famatv (1080p) [Not 24/7]
+#EXTINF:-1,Famatv [Not 24/7]
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
-#EXTINF:-1,Kuriakos Cine (1080p)
+#EXTINF:-1,Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1,Kuriakos TV (1080p)
+#EXTINF:-1,Kuriakos TV
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-#EXTINF:-1,ON FM (720p)
+#EXTINF:-1,ON FM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#EXTINF:-1 group-title="TV" tvg-id="CNN Portugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
-#EXTINF:-1,Porto Canal (720p)
+#EXTINF:-1,Porto Canal
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
-#EXTINF:-1,Radio Sines (720p) [Geo-blocked]
+#EXTINF:-1,Radio Sines
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",RTP 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP1.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",RTP 1 [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1,RTP 2 (720p) [Not 24/7]
+#EXTINF:-1,RTP 2 [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1,RTP Acores (720p) [Not 24/7]
+#EXTINF:-1,RTP Acores [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1,RTP Acores SD (504p) [Not 24/7]
+#EXTINF:-1,RTP Acores SD [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1,RTP Noticias (720p) [Not 24/7]
+#EXTINF:-1,RTP Noticias [Not 24/7]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1,RTP Noticias SD (504p) [Not 24/7]
+#EXTINF:-1,RTP Noticias SD [Not 24/7]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1,SIC (1080p) [Geo-blocked]
+#EXTINF:-1,SIC
 https://sic.live.impresa.pt/sic.m3u8
-#EXTINF:-1,SIC Noticias (1080p) [Geo-blocked]
+#EXTINF:-1,SIC Noticias [Geo-blocked]
 https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport TV1
 https://znty.dyndns.org:5010/hls/stv1.m3u8
 #EXTINF:-1,like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports",Sport TV2
 https://znty.dyndns.org:5010/hls/stv2.m3u8
-#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="General",TVI (720p)
+#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="General",TVI
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
-#EXTINF:-1,TVI Ficcao (720p)
+#EXTINF:-1,TVI Ficcao
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
 #EXTINF:-1,Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galicia
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
-#EXTINF:-1,Moldova 1 (1080p)
+#EXTINF:-1,Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
-#EXTINF:-1,Moldova 2 (1080p)
+#EXTINF:-1,Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
-#EXTINF:-1,Moldova TV (1080p)
+#EXTINF:-1,Moldova TV
 https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1,Noroc TV
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
-#EXTINF:-1,Privesc.Eu TV (2160p)
+#EXTINF:-1,Privesc TV 
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1,PRO TV Chisinau (480p)
+#EXTINF:-1,PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
-#EXTINF:-1,Radio Chisinau (576p)
+#EXTINF:-1,Radio Chisinau
 https://radiochisinau.md/hls/RChisinau.m3u8
 #EXTINF:-1,Radio Moldova
 https://radiolive.trm.md/hls_rma/actualitati.m3u8
-#EXTINF:-1,Radio Moldova Tineret (1080p)
+#EXTINF:-1,Radio Moldova Tineret
 https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
-#EXTINF:-1,Realitatea TV (406p)
+#EXTINF:-1,Realitatea TV
 https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1,TeleMoldova + [Geo-blocked]
+#EXTINF:-1,TeleMoldova
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
-#EXTINF:-1,Tezaur TV (576i)
+#EXTINF:-1,Tezaur TV
 https://tezaurtv.md/stream/index.m3u8
-#EXTINF:-1,TSV (1080p)
+#EXTINF:-1,TSV
 https://tsv.md/stream/hls/tsv-online/index.m3u8
-#EXTINF:-1,TV8 (Moldova) [Not 24/7]
+#EXTINF:-1,TV8
 https://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
-#EXTINF:-1,TVR Moldova HD (1440p)
+#EXTINF:-1,TVR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
 #EXTINF:-1,Zona M
 https://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8

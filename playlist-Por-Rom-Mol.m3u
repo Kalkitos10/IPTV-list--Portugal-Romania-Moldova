@@ -20,13 +20,13 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png" group-title="Sports",Digi Sport 4
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
-#EXTINF:-1,Agro TV [Not 24/7]
+#EXTINF:-1,Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1,Aleph Business 
 https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1,Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
-#EXTINF:-1,Alfa Omega TV [Not 24/7]
+#EXTINF:-1,Alfa Omega TV
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:-1,Antena International
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8

@@ -227,7 +227,7 @@ https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CanalMacau.mo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM-Macau-Pt
 https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TDMMacauSatellite.mo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM-Macau=Cn
+#EXTINF:-1 group-title="TV" tvg-id="TDMMacauSatellite.mo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM-Macau-Cn
 https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Travelxp.in" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/travelxp.png",Travelxp
 https://b3cc72d0160f4e168712e880c78c4dcc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_TravelXP/playlist.m3u8

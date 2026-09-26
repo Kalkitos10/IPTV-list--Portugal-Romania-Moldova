@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="Antena1.ro@SD" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="General",Antena 1 (Romania)
+https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
 #EXTINF:-1,A7TV 
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Acasa.ro@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png" group-title="Entertainment",Acasa HD

@@ -116,8 +116,9 @@ https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1,Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
-#EXTINF:-1,Pro Cinema
-#EXTINF:-1 tvg-id="PROTV.ro@HD" tvg-logo="https://i.imgur.com/zVk3WlT.png" group-title="Undefined",PRO TV HD
+#EXTINF:-1 tvg-id="PRO Cinema.ro@SD" tvg-logo="https://i.imgur.com/TvHFGwZ.png" group-title="Movies",Pro Cinema
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
+#EXTINF:-1 tvg-id="PRO TV.ro@HD" tvg-logo="https://i.imgur.com/zVk3WlT.png" group-title="Undefined",PRO TV HD
 https://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
 #EXTINF:-1,PRO 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
